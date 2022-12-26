@@ -1,0 +1,87 @@
+*{
+    font-family: Satoshi;
+}
+.login{
+    height: 100vh;
+
+}
+.header h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    color: #0D0D0D;
+}
+.form-group label{
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #0D0D0D;
+
+}
+.form-group input{
+    margin-bottom: 16px;
+    padding: 16px 8px;
+    gap: 12px;
+    width: 522px;
+    height: 48px;
+    border: 0.8px solid #0D0D0D;
+    border-radius: 50px;
+
+}
+.form-group small{
+    margin-top: 8px;
+}
+
+.form-group p a{
+    font-size: 16px;
+    color: #0D0D0D;
+    font-weight: bold;
+}
+.form-group .login{
+    margin-top: 24px;
+    font-weight: bold;
+    padding: 16px;
+    gap: 8px;
+    width: 522px;
+    height: 66px;
+    background: #FFC125;
+    border-radius: 50px;
+    border: none;
+    
+}
+.login-left img{
+    width: 80vh;
+    height: 100vh;
+}
+
+.navbar{
+    border-bottom: 1px solid #ECECEC;
+}
+
+.navbar a{
+    font-weight: bold;
+    color: #0D0D0D;
+}
+
+.navbar button{
+    align-items: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 34px;
+    width: 197px;
+    height: 42px;
+    background: #FFC125;
+    border-radius: 50px;
+
+}
+.navbar input{
+    width: 521px;
+    height: 42px;
+    border: 1px solid #E8E8E8;
+    border-radius: 50px;
+
+}
